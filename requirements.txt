@@ -1,0 +1,6 @@
+streamlit>=1.30
+pandas>=2.0
+plotly>=5.18
+reportlab>=4.0
+matplotlib>=3.7
+pillow>=9.0

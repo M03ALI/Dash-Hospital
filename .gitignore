@@ -1,0 +1,13 @@
+# Never commit secrets
+.streamlit/secrets.toml
+
+# Local database files
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
